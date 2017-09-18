@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="ket_qua">Ket qua</string>
+    <string name="nhap_so_b">nhap so b</string>
+    <string name="nhap_so_a">nhap so a</string>
+    <string name="ket_qua_phuong_trinh_bac_1">Ket qua phuong trinh bac 1</string>
+    <string name="back">Back</string>
+    <string name="mypackage">MyPackage</string>
+</resources>
